@@ -1,0 +1,10 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+*.keras
+*.h5
+*.ckpt
+*.pb
+saved_model/
+*.log
